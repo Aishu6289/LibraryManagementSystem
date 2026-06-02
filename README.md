@@ -74,8 +74,8 @@ LibraryMan/
 
 
 📬 Contact
-👨‍💻 Ruthvik H K
-GitHub: dev-ruthvik GitHub Profile
-Email: hkruthvik@gmail.com
+👨‍💻 Aishwarya H D
+GitHub: Aishu6289 GitHub Profile
+Email: aishwarya262005@gmail.com
 
 Feel free to connect, contribute, or suggest improvements!
