@@ -75,7 +75,7 @@ LibraryMan/
 
 📬 Contact
 👨‍💻 Aishwarya H D
-GitHub: Aishu6289 GitHub Profile
+GitHub: Aishu6289 GitHub
 Email: aishwarya262005@gmail.com
 
 Feel free to connect, contribute, or suggest improvements!
