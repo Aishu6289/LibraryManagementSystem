@@ -40,7 +40,7 @@ const Footer = () => {
         <div className="container">
 
           <p>&copy; { new Date().getFullYear() } </p>
-          <p>Dev-Aishwarya </p>
+          <p>Dev-Aishwarya hd </p>
         </div>
 
       </footer>
