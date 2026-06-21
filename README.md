@@ -69,20 +69,10 @@ LibraryMan/
 📖 Book Recommendation System
 🌙 Dark Mode
 ☁️ Cloud Database Integration
-🤖 AI-powered Book Suggestions 
+🤖 AI-powered Book Suggestions.
 
 
-## Development Goals
 
-🎯 Create a clean and user-friendly library management system
-
-🎯 Practice modern React development concepts
-
-🎯 Implement reusable components and efficient state management
-
-🎯 Deliver an engaging user experience across devices
-
-🎯 Build a strong foundation for future integrations
 
 
 
